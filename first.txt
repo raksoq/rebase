@@ -1,3 +1,15 @@
-Why did the musician get kicked out of the band?
-
-Because he was always flat!
+1. Command (⌘) + T: Open a new tab.
+2. Command (⌘) + N: Open a new Terminal window.
+3. Command (⌘) + W: Close the current tab.
+4. Command (⌘) + K: Clear the screen.
+5. Command (⌘) + Arrow Up/Down: Scroll up/down the terminal output.
+6. Control (⌃) + A: Move the cursor to the beginning of the line.
+7. Control (⌃) + E: Move the cursor to the end of the line.
+8. Control (⌃) + U: Delete from the cursor to the beginning of the line.
+9. Control (⌃) + K: Delete from the cursor to the end of the line.
+10. Control (⌃) + W: Delete the word before the cursor.
+11. Option (⌥) + Arrow Left/Right: Move the cursor one word left/right.
+12. Control (⌃) + L: Clear the screen (similar to Command (⌘) + K).
+13. Control (⌃) + C: Kill the current process.
+14. Control (⌃) + D: Logout from the current session.
+15. Control (⌃) + Z: Suspend the current process.
