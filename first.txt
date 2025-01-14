@@ -4,7 +4,6 @@
 4. Command (⌘) + K: Clear the screen.
 5. Command (⌘) + Arrow Up/Down: Scroll up/down the terminal output.
 .......
-.......
 12. Control (⌃) + L: Clear the screen (similar to Command (⌘) + K).
 13. Control (⌃) + C: Kill the current process.
 14. Control (⌃) + D: Logout from the current session.
